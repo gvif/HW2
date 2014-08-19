@@ -42,5 +42,6 @@ public class MyActivity extends Activity {
        // Intent intent = new Intent(this, DisplayMessageActivity.class);
 
 //        https://developer.android.com/training/basics/firstapp/starting-activity.html
+
     }
 }
